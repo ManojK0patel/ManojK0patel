@@ -1,7 +1,8 @@
+<div align="center">
 # Hi there, I'm Manoj! 👋
 
 Welcome to my GitHub profile.
-
+</div>
 ## About Me
 
 - 🔭 I’m currently not working on any project
