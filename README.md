@@ -1,7 +1,7 @@
 <div align="center">
-<div style="font-size:30;">
-Hi there, I'm Manoj! 👋
-</div>
+
+# Hi there, I'm Manoj! 👋
+
 ## Welcome to my GitHub profile.
 </div>
 ## About Me
