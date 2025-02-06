@@ -1,5 +1,5 @@
 <div align="center">
-<div style="font-size:20px;">
+<div style="font-size:30;">
 Hi there, I'm Manoj! 👋
 </div>
 ## Welcome to my GitHub profile.
