@@ -1,5 +1,5 @@
 <div align="center">
-#### Hi there, I'm Manoj! 👋
+## Hi there, I'm Manoj! 👋
 
 ## Welcome to my GitHub profile.
 </div>
